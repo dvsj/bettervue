@@ -1,6 +1,6 @@
 # bettervue
 
-heres the gist: i made this because Synergy's SIS is just not it. looks like it was designed in 2015, no dark mode, no modern features, no soul. so i built bettervue. it's a studentvue alternative that isn't perfect, but it's a lot better. at least i think so.
+heres the gist: i made this because Synergy's SIS is just not it. looks like it was designed in 2015, no dark mode, no modern features, no soul. so i built bettervue. it's a studentvue alternative by an FCPS student for FCPS students. it isn't perfect, but it's a lot better. at least i think so.
 
 ---
 
