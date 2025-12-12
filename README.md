@@ -65,7 +65,8 @@ similarly:
 
 - bettervue is not affiliated with fcps or studentvue. 
 - your password is only used to fetch data, never stored.
-- if it breaks, its most likely to be an issue on studentvue's end.
+- if it breaks, make an issue. i'll try fixing it.
+- i am aware of certain aspects of the site not working; rest assured, i'll figure something out eventually
 
 ---
 
